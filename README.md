@@ -13,7 +13,7 @@ All the above features will be handled via a set of REST APIs. The application w
 
 run virtual env
 ```
-source virt/bin/active
+source virt/bin/activate
 ```
 
 run server
@@ -22,7 +22,7 @@ python app.py
 ```
 
 # Postman collection
-![file](assignment2.postman_collection.json)
+https://github.com/pooldiver69/cmpe273-assignment2/blob/master/assignment2.postman_collection.json
 
 # assginment result
 
